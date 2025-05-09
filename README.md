@@ -36,27 +36,3 @@ Music events create form.
 
 ![Payment confirmation](images/Screenshot%202021-02-07%20at%2015.26.01.png)
 
-![Ticket purchase](images/Screenshot%202021-02-07%20at%2015.26.39.png)
-
-![Tickets list](images/Screenshot%202021-02-07%20at%2015.27.02.png)
----
-
-### Calendar selector
-![Calendar selector](images/Screenshot%202021-02-07%20at%2015.27.22.png)
-
-
-
-## Author
-
-👤 **Pablo Ospino**
-
-* Website: https://ospino.me
-* Github: [@ospinooo](https://github.com/ospinooo)
-* LinkedIn: [@pabloospino](https://linkedin.com/in/pabloospino)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
